@@ -36,10 +36,12 @@
 
 Στο terminal:
 1. git clone https://github.com/eleftheriatza03/diplomatiki.git
-2. αποσυμπιέστε το αρχείο recommender10.zip
-3. cd [directory of the recommender.10]       
+2. κατεβάστε το project (zip αρχείο) και αποσυμπιέστε το    
+3. cd [directory αποσυμπίεσης]
+4. αποσυμπιέστε το αρχείο recommender10.zip  
+5. cd [directory of the recommender.10]      
 
-cd recommender10 
+
 
 ## Τρέξιμο της εφαρμογής
 
