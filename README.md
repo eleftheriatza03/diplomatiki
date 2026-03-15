@@ -35,7 +35,8 @@
 **Κλωνοποίηση του project:**
 
 Στο terminal:
-git clone https://github.com/eleftheriatza03/diplomatiki.git 
+git clone https://github.com/eleftheriatza03/diplomatiki.git   
+
 cd recommender10 
 
 ## Τρέξιμο της εφαρμογής
