@@ -51,7 +51,7 @@ terminal
 mvn spring-boot:run  
 
 - Ως standalone war:  
-Βρείτε το aieshop.war (/your root dir/dir where you downloaded the app/target/aishop.war)
+Βρείτε το aieshop.war (/your root dir/dir where you downloaded the app/target/aieshop.war)
 Αντιγράψτε το στο  /your root dir/your Tomcat dir/webapps/  
 Τρεξτε τον Tomcat  
 Στην μπάρα διευθύνσεων του browser που χρησιμοποιείτε πληκτρολογείστε: localhost:8080/aishop  
