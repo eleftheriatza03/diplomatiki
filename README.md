@@ -59,7 +59,7 @@ There you have it...
  
 - Με το Intelij   
  Ανοίξτε από το Intelij το project recommender10  
- Run  
+ Run Recommender10Application.java (η κλάση που έχει την main)  
  Στην μπάρα διευθύνσεων του browser που χρησιμοποιείτε πληκτρολογείστε: localhost:8080/
 
 ## Εισαγωγή Administrator  
