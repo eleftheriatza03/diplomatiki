@@ -39,7 +39,7 @@
 2. κατεβάστε το project (zip αρχείο) και αποσυμπιέστε το    
 3. cd [directory αποσυμπίεσης]
 4. αποσυμπιέστε το αρχείο recommender10.zip  
-5. cd [directory of the recommender.10]      
+5. cd [directory of the recommender10]      
 
 
 
