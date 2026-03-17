@@ -54,7 +54,7 @@ mvn spring-boot:run
 Βρείτε το aieshop.war (/your root dir/dir where you downloaded the app/target/aieshop.war)
 Αντιγράψτε το στο  /your root dir/your Tomcat dir/webapps/  
 Τρεξτε τον Tomcat  
-Στην μπάρα διευθύνσεων του browser που χρησιμοποιείτε πληκτρολογείστε: localhost:8080/aishop  
+Στην μπάρα διευθύνσεων του browser που χρησιμοποιείτε πληκτρολογείστε: localhost:8080/aieshop  
 There you have it...
  
 - Με το Intelij   
