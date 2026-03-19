@@ -62,6 +62,7 @@ There you have it...
  Run Recommender10Application.java (η κλάση που έχει την main)  
  Στην μπάρα διευθύνσεων του browser που χρησιμοποιείτε πληκτρολογείστε: localhost:8080/
 
+-*Κατάλογος upload εικόνων - file.upload-dir=C:\\aieshop\\uploads
 ## Εισαγωγή Administrator  
 
 1. Πρέπει να υπάρχει στην βάση δεδομένων χρήστης με email 'admin@athensshop.gr'  
